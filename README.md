@@ -1,5 +1,5 @@
 # 💫 About Me:
-Well-qualified software engineer familiar with wide range of programming<br>utilities and languages. Knowledgeable of backend and frontend development<br>requirements. Handles any part of process with ease. Collaborative team player<br>with excellent technical abilities offering 6 years+ of related experience.
+Well-qualified software engineer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 6 years+ of related experience.
 
 
 # 💻 Tech Stack:
